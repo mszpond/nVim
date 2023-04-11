@@ -1,1 +1,2 @@
+require("mszpond")
 print("hello")
