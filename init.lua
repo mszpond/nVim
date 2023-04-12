@@ -1,2 +1,2 @@
 require("mszpond")
-print("hello")
+

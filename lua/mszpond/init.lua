@@ -1,2 +1,2 @@
 require("mszpond.remap")
-print("hello from mszpond")
+require("mszpond.set")
